@@ -15,11 +15,11 @@ STEPS FOR RUNNING:-
 
 5. Click on new at side navbar.
 
-6. Give a database name as (blood_bank_database) hit on create button.
+6. Give a database name as (HCMS) hit on create button.
 
 7. After creating database name click on import.
 
-8. Browse the file in directory[BDMS/sql/blood_bank_database.sql].
+8. Browse the file in directory[BDMS/sql/Hospital-Management-System.
 
 9. After importing successfully.
 
